@@ -18,6 +18,8 @@ I developed a comprehensive Power BI dashboard for analyzing pizza sales data, l
 - **Interactive Dashboards:** Developed user-friendly dashboards allowing stakeholders to explore pizza sales data dynamically.
 - **Sales Trends Analysis:** Utilized DAX queries to analyze sales trends over time, identifying peak sales periods and areas for improvement.
 - **Customer Segmentation:** Implemented customer segmentation analysis to identify key customer groups and tailor marketing strategies accordingly.
+- **Demo Video Presentation:**
+  https://github.com/vbhatsaccnt/Pizza-sales-Analytics-Dashboard/assets/67544433/3116e87b-aed6-4518-ba8e-5cf35dcc0157
 
 ### Data Sources:
 The project utilized transactional data from pizza sales, incorporating key metrics such as order size, delivery times, and customer details from the Microsoft SQL Server database.
