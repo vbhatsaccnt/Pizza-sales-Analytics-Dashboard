@@ -34,6 +34,7 @@ Included visually appealing and informative charts and graphs in the Power BI da
 - Monthly Sales Trends
 - Pizza Revenue and Sales Pie Charts
 - KPI Analysis
+  
 ![image](https://github.com/vbhatsaccnt/Pizza-sales-Analytics-Dashboard/assets/67544433/c3c88a29-2c8d-4f53-9ad9-3d3bbda6e015)
 
 ![image](https://github.com/vbhatsaccnt/Pizza-sales-Analytics-Dashboard/assets/67544433/5aaeb91d-5b7d-4f13-b9db-f099cb3a8dde)
